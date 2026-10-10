@@ -1,6 +1,10 @@
 #happy-birthday-website
 
-Hey guys I made this for an absolutely spineless ungrateful opportunistic lying piece of hot trash, please don't use it for your loved ones, don't star it, fork it, I had fun making and it was made with absolute love and admiration and thankyou so much for being an inspiration <3 and yes everyone loved it; it was a great learning experience :))) Cheers!
+To anyone who even thought of making something special for their loved ones, y'all already won
+and no one can take that from you
+I made it with great love and admiration and I am so grateful I had a wonderful inspiration <3
+Had fun making it and did it for the fun of game ;D
+Good luck guys, show them how much you love them and raise the standards :))
 
 very cute happy birthday wishes website, with a puzzle and funny bday messages.
 made with typescript and tailwind + css
