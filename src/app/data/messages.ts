@@ -1,37 +1,37 @@
 
 /* ---- BDAY INTRO MESSAGES ---- */
 export const INTRO_MESSAGES = {
-  title: 'ini ulang tahun kamuuuu kan sayanggg yg spesialll dibandingkan hari biasanua??',
-  subtitle: 'hari dimanaa bidadarii lahirr... ✨',
-  description1: 'Hari dimana tuhan menciptakann manusia cantik 💕',
-  description2: 'semoga senengg ya ssyangg ',
+  title: 'Is it your birthday today??',
+  subtitle: 'Something magical is about to happen... ✨',
+  description1: 'But first we need to fix your heart 💕',
+  description2: 'Because it deals with so much and needs love ',
   button: 'Let\'s Begin! <3',
 };
 
 /* ---- PUZZLE GAME TEXT ---- */
 export const PUZZLE_MESSAGES = {
-  title: '💕 Gabungin hati pindahkan tekan dan susun hati 💕',
+  title: '💕 Mend the Heart 💕',
   hint: 'Left piece goes on the left, right piece goes on the right',
 };
 
 /* ---- SUCCESS SCREEN TEXT ---- */
 export const SUCCESS_MESSAGES = {
   completed: '✨ Your Heart is Whole Again! ✨',
-  instruction: '💕 Tutup mata and make a beautiful wish... 💕',
+  instruction: '💕 Close your eyes and make a beautiful wish... 💕',
   cta: 'Tap the heart when you\'re ready to see your birthday message 🐻',
 };
 
 /* ---- WISH MESSAGES ---- */
 export const WISH_MESSAGES = [
-  "Selamat ulang tahun sayangku cintaku semoga dengan bertambahnya umur kamu.. ",
-  "kamu bisa menjadi pribadi yang lebih baik lagi, sehat selalu mental dan fisiknya.. ",
-  "dilancarkan rezekinya, dipermudah segala urusannya, langkahmu selalu dipenuhi dengan kebahagiaan,.. ",
-  "semoga aku selalu bisa menjadi seseorang yang selalu ada di setiap prosesmu,.. ",
-  "dan terimakasih telah memberiku cinta yang belum pernah aku temui sebelumnya,.. ",
-  "tetap menjadi perempuann yang tidak pernah berubah dari awal hingga akhir ya.. ",
-  "Maaf aku engga bisa ngucapin tahun ini secara langsung.. ",
-  "tapi aku buat ini smua untuk ngrrayain hari special kamu <3...",
-  "selebihnyas nyusul yas...",
+  "One year older, ten times hotter.. ",
+  "May all your delulu come trululu.. ",
+  "Have a purrfect ♪(^∇^*) birthday.. ",
+  "A million extra wishes to you!.. ",
+  "You are a limited edition with unlimited potential.. ",
+  "You are flippin' awesome.. ",
+  "Wishing you a rizzful year ahead.. ",
+  "Roses are red, skies are blue.. I just wanna say Happy Birthday to you <3...",
+  "Hope your birthday lights up with dreams and stars...",
 ];
 // Deprecated: do not export a component from data file. Keep data exports only.
 
