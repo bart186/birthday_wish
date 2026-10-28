@@ -1,23 +1,23 @@
 
 /* ---- BDAY INTRO MESSAGES ---- */
 export const INTRO_MESSAGES = {
-  title: 'Is it your birthday today??',
-  subtitle: 'Something magical is about to happen... ✨',
-  description1: 'But first we need to fix your heart 💕',
-  description2: 'Because it deals with so much and needs love ',
+  title: 'ini ulang tahun kamuuuu kan sayanggg yg spesialll dibandingkan hari biasanua??',
+  subtitle: 'hari dimanaa bidadarii lahirr... ✨',
+  description1: 'Hari dimana tuhan menciptakann manusia cantik 💕',
+  description2: 'semoga senengg ya ssyangg ',
   button: 'Let\'s Begin! <3',
 };
 
 /* ---- PUZZLE GAME TEXT ---- */
 export const PUZZLE_MESSAGES = {
-  title: '💕 Mend the Heart 💕',
+  title: '💕 Gabungin hati pindahkan tekan dan susun hati 💕',
   hint: 'Left piece goes on the left, right piece goes on the right',
 };
 
 /* ---- SUCCESS SCREEN TEXT ---- */
 export const SUCCESS_MESSAGES = {
   completed: '✨ Your Heart is Whole Again! ✨',
-  instruction: '💕 Close your eyes and make a beautiful wish... 💕',
+  instruction: '💕 Tutup mata and make a beautiful wish... 💕',
   cta: 'Tap the heart when you\'re ready to see your birthday message 🐻',
 };
 
